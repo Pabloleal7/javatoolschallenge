@@ -156,13 +156,13 @@ O desafio especificou que as transações podem ter os seguintes status: `"AUTOR
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/ToolsChallenge.git
+   git clone https://github.com/Pabloleal7/javatoolschallenge
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd ToolsChallenge
+   cd javatoolschallenge
    ```
 
 3. Compile e execute o projeto usando Maven:
@@ -194,3 +194,6 @@ Os testes verificam a funcionalidade completa da API, incluindo:
 Espero que este README forneça todas as informações necessárias para entender e executar o projeto. Se houver dúvidas adicionais ou sugestões, sinta-se à vontade para abrir uma *issue* no repositório.
 
 Este projeto foi desenvolvido como parte de um desafio técnico, com foco em seguir boas práticas de desenvolvimento e garantir que todos os requisitos sejam atendidos. O uso de uma `TransacaoFactory` facilita a criação e manutenção de transações com diferentes características, mantendo o código modular e reutilizável.
+## Autor
+
+Este projeto foi desenvolvido por Pablo Leal como parte de um desafio técnico. Para mais informações ou sugestões, entre em contato através do [LinkedIn](https://www.linkedin.com/in/pablo-preciliano-jose-macedo-leal-b7545a39/) ou [GitHub](https://github.com/Pabloleal7).
